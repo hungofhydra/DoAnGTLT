@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1600761823 source:c:\users\administrator\documents\doan\main.cpp
+	<bits/stdc++.h>
+
+1600761797 source:c:\users\administrator\documents\doan\src\test.cpp
+	<graphics.h>
+	<math.h>
+
+1603078316 source:c:\hung\doan\main.cpp
+	<graphics.h>
+	<iostream>
+	<math.h>
+	<sstream>
+
+1606105786 source:e:\hung\doan\main.cpp
+	<graphics.h>
+	<iostream>
+	<math.h>
+	<sstream>
+
